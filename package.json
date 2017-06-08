@@ -1,5 +1,5 @@
 {
-  "name": "normalize.css",
+  "name": "@sigmacomputing/normalize.css",
   "version": "7.0.0",
   "description": "A modern alternative to CSS resets",
   "main": "normalize.css",
